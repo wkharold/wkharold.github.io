@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raincreekings</title>
+    <link>https://wkharold.github.io/</link>
+    <description>Recent content on Raincreekings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2019 21:29:11 -0600</lastBuildDate>
+    
+	<atom:link href="https://wkharold.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cron as a filesystem</title>
+      <link>https://wkharold.github.io/posts/9p-cron/</link>
+      <pubDate>Sat, 21 Dec 2019 21:29:11 -0600</pubDate>
+      
+      <guid>https://wkharold.github.io/posts/9p-cron/</guid>
+      <description>9p I read The Styx Architecture for Distributed Systems over a decade ago. The central idea of the paper is that &amp;ldquo;representing a computing resource as a form of file system, [makes] many of the difficulties of making that resource available across the network disappear&amp;rdquo;. By resource they mean any resource. For example in the Plan9 window system 8½, windows and even the mouse are implemented as a files; similarly, in Inferno and Plan9 the interface to the TCP/IP network is presented as a file system hierarchy.</description>
+    </item>
+    
+  </channel>
+</rss>
